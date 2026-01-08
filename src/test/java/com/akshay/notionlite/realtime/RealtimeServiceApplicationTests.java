@@ -1,4 +1,4 @@
-package com.akshay.notionlite;
+package com.akshay.notionlite.realtime;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
