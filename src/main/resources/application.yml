@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+jwt:
+  secret: "CHANGE_ME_TO_A_LONG_RANDOM_SECRET_AT_LEAST_32_CHARS"
+
+api:
+  baseUrl: "http://localhost:8080"
